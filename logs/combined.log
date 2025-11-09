@@ -73,3 +73,14 @@
 {"level":"info","message":"::1 - - [09/Nov/2025:10:23:30 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 127 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquisitions-api","timestamp":"2025-11-09T10:23:30.692Z"}
 {"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-11-09T14:29:45.890Z","userAgent":"PostmanRuntime/7.50.0"}
 {"level":"info","message":"::1 - - [09/Nov/2025:14:29:45 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquisitions-api","timestamp":"2025-11-09T14:29:45.917Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-11-09T14:30:18.813Z","userAgent":"PostmanRuntime/7.50.0"}
+{"level":"info","message":"::1 - - [09/Nov/2025:14:30:18 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquisitions-api","timestamp":"2025-11-09T14:30:18.837Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-11-09T14:30:30.362Z","userAgent":"PostmanRuntime/7.50.0"}
+{"level":"info","message":"::1 - - [09/Nov/2025:14:30:30 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquisitions-api","timestamp":"2025-11-09T14:30:30.366Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-11-09T14:30:55.558Z","userAgent":"PostmanRuntime/7.50.0"}
+{"level":"info","message":"::1 - - [09/Nov/2025:14:30:55 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquisitions-api","timestamp":"2025-11-09T14:30:55.561Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-11-09T14:31:23.317Z","userAgent":"PostmanRuntime/7.50.0"}
+{"level":"info","message":"::1 - - [09/Nov/2025:14:31:23 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquisitions-api","timestamp":"2025-11-09T14:31:23.320Z"}
+{"level":"info","message":"Hello from acquisitions-api!","service":"acquisitions-api","timestamp":"2025-11-09T18:13:32.880Z"}
+{"level":"info","message":"::1 - - [09/Nov/2025:18:13:32 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","service":"acquisitions-api","timestamp":"2025-11-09T18:13:32.899Z"}
+{"level":"info","message":"::1 - - [09/Nov/2025:18:13:33 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\"","service":"acquisitions-api","timestamp":"2025-11-09T18:13:33.184Z"}
